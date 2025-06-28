@@ -147,3 +147,6 @@ esta actividad la verdad estuvo super entretenida y chistosa y pues dentro de to
 
 **Mia Valentina Castañeda Maciel:**
 Se logró el objetivo de la actividad, haciendo que todos los participantes tuvieran una actividad diferente en cada ciclo.
+
+**Roberto Alfonso Ambriz Garcia:** 
+En esta actividad se demostró como el uso de listas y una estructura modular, nos ayuda al mejor entendimiento del código; finalizando con un divertido mensaje en la simulación.
